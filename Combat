@@ -1,0 +1,37 @@
+Combat
+
+In situations where one or more entities are facing a physical confrontation, they are considered to be in combat.
+
+Pre-Combat
+
+If one member or group is aware of their opponents before being discovered, they are given the upper-hand and have an extra surprise round to act. They may follow the rules for drawing and actions before their opponents have an opportunity to draw and defend themselves.
+
+Start of Combat
+
+At the beginning of combat, all participants draw from their deck a hand of four cards. This hand represents their ability to attack and defend themselves until the end of thier next turn.
+Player turn order is determined by deck size. Players with a smaller total of ability cards in thier deck go first and larger totals go last. In the event of a tie, the player with the smallest current total deck size goes first.
+During their turn, players may make a main action, a secondary action, and any number of free actions (within reason) in any order.
+Main Actions:
+
+Secondary Actions:
+
+Free Actions:
+
+Attacking
+To make an attack, a player selects an opponent to attack, a weapon with which to attack, and an ability card from their hand.
+
+Dodging
+When attacked, a player may choose to discard one or more cards from their hand. If they do, add together the scores for the AGILITY for all discarded cards. If the total is equal to or greater than the AGILITY score of the attack they are attempting to dodge, the attack misses and no damage occurs.
+
+Damage and Wounds
+If attack is not successfully dodged, damage will be dealt. The damage dealt is equal either the STRENGTH score of the attack card or the MAX ATTACK score of the weapon used, whichever is smaller. (If the attack was a ranged attack, the weapon's DAMAGE score is used in place of the STRENGTH score.) Any further ARMOR BONUS is then subtracted. This many WOUND cards are then placed in the defending players discard pile.
+
+Unconcousness and Death
+If a player receives a number of wound cards in a single blow equal to one quarter (rounded down) of the number of ability cards in their deck, they become unconcious. Alternatively, if a player draws a hand with no ability cards, they become unconcious.
+If a player receives a number of wound cards in a single blow equal to one half (rounded down) of the number of ability cards in their deck, they are immediatly slain. If a player draws a hand of only wound cards, they are immediatly slain.
+
+End of Turn
+At the end of thier turn, the player discards all remaining cards in their hand and draws a new hand of of four cards.
+
+End of Combat
+When a player decides to no longer participate in combat, they discard all remaining cards in thier hand to represent lowering their guard. They may take the usual actions during their turn with the exception of attacking. They may participate in combat again by drawing new cards at the end of their turn. When all players are out of combat, it is considered finished.
